@@ -1,5 +1,6 @@
-**Click on the Link below which redirects you to a google site**
-https-sites.google.com-view-project1-ie6600-sec05-group8-home-authuser-0
+**Click or Copy paste the Link below which redirects you to a google site**
+
+# https-sites.google.com-view-project1-ie6600-sec05-group8-home-authuser-0
 
 # Industrial_sector
 Industrial sectors and analysis on chain of various sectors within industrial sectors which are manufacturing sector ,transportation sector and retail sector.
